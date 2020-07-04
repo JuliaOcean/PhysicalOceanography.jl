@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = PhysicalOceanography","category":"page"},{"location":"#PhysicalOceanography","page":"Home","title":"PhysicalOceanography","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [PhysicalOceanography]","category":"page"},{"location":"#PhysicalOceanography.f-Tuple{Any}","page":"Home","title":"PhysicalOceanography.f","text":"f(φ)\n\nCoriolis Parameter\n\n\n\n\n\n","category":"method"},{"location":"#PhysicalOceanography.β-Tuple{Any}","page":"Home","title":"PhysicalOceanography.β","text":"β(φ)\n\nRossby Parameter\n\n\n\n\n\n","category":"method"}]
+}
