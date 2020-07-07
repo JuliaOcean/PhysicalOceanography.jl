@@ -1,5 +1,5 @@
 using PhysicalOceanography
-using Test
+using Test, Documenter
 
 @testset "PhysicalOceanography.jl" begin
 
@@ -7,3 +7,9 @@ using Test
     @test isapprox(β(45),1.61687441686e-11)
 
 end
+
+@testset "doctests" begin
+    doctest(PhysicalOceanography; manual = false)
+end
+
+
