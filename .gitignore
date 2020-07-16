@@ -1,5 +1,7 @@
 *.jl.*.cov
 *.jl.cov
 *.jl.mem
+/docs/src/Parameters
+/docs/src/notebooks
 /docs/build/
 Manifest.toml
