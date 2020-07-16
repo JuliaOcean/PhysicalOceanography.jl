@@ -1,7 +1,7 @@
 name = "PhysicalOceanography"
 uuid = "e1a20e90-c40e-46c0-93e3-c2da05da97e3"
 authors = ["Gael Forget <gforget@mit.edu>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1"
