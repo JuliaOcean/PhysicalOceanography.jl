@@ -2,6 +2,8 @@
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://gaelforget.github.io/PhysicalOceanography.jl/stable)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://gaelforget.github.io/PhysicalOceanography.jl/dev)
+[![DOI](https://zenodo.org/badge/277150554.svg)](https://zenodo.org/badge/latestdoi/277150554)
+
 [![Build Status](https://github.com/gaelforget/PhysicalOceanography.jl/workflows/CI/badge.svg)](https://github.com/gaelforget/PhysicalOceanography.jl/actions)
 [![Build Status](https://travis-ci.org/gaelforget/PhysicalOceanography.jl.svg?branch=master)](https://travis-ci.org/gaelforget/PhysicalOceanography.jl)
 [![Coverage](https://codecov.io/gh/gaelforget/PhysicalOceanography.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/gaelforget/PhysicalOceanography.jl)

@@ -10,7 +10,7 @@
 # coefficient, is equal to twice the rotation rate `Ω` of the Earth multiplied
 # by the `sine` of the latitude `φ`.
 #
-# $$ f=2\Omega \sin \varphi $$
+# $$f=2\Omega \sin \varphi$$
 
 using PhysicalOceanography
 isapprox(f(45),1.03125867182e-4)
