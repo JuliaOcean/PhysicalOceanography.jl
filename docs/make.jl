@@ -34,8 +34,7 @@ makedocs(;
     ),
     pages=[
         "Home" => "index.md",
-        "One Example" => "ex_f.md",
-        "More Examples" => pages("Parameters"),
+        "Parameters" => pages("Parameters"),
     ],
 )
 
