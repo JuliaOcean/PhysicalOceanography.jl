@@ -1,0 +1,6 @@
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+PhysicalOceanography = "e1a20e90-c40e-46c0-93e3-c2da05da97e3"
+
+[compat]
+julia = "1"
