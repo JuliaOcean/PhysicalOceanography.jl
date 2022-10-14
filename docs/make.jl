@@ -25,11 +25,11 @@ pages(folder) = [joinpath(folder, f) for f in readdir(joinpath(src, folder)) if 
 makedocs(;
     modules=[PhysicalOceanography],
     authors="Gael Forget <gforget@mit.edu>",
-    repo="https://github.com/gaelforget/PhysicalOceanography.jl/blob/{commit}{path}#L{line}",
+    repo="https://github.com/JuliaOcean/PhysicalOceanography.jl/blob/{commit}{path}#L{line}",
     sitename="PhysicalOceanography.jl",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
-        canonical="https://gaelforget.github.io/PhysicalOceanography.jl",
+        canonical="https://JuliaOcean.github.io/PhysicalOceanography.jl",
         assets=String[],
     ),
     pages=[
@@ -39,5 +39,5 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/gaelforget/PhysicalOceanography.jl",
+    repo="github.com/JuliaOcean/PhysicalOceanography.jl",
 )
